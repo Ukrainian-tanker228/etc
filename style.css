@@ -1,0 +1,25 @@
+header h1 {
+    text-align: center;
+}
+body {
+    background-color: lightblue;
+}
+main p {
+    border:2px solid rgba(37, 61, 166, 0.677);
+}
+table {
+    border: 2px solid black;
+}
+td {
+border: 2px solid black;
+}
+body {
+    background-color: lightblue;
+}
+header a {
+text-decoration: none;
+font-size: 23px;
+color: rgb(255, 255, 255);
+border-radius: 10px;
+background-color: rgb(250, 0, 0);
+}
